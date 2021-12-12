@@ -1,4 +1,4 @@
-
+// Copyright 2020 Your Name <your_email>
 #ifndef TEMPLATE_EXPERIMENT_H
 #define TEMPLATE_EXPERIMENT_H
 #include <chrono>

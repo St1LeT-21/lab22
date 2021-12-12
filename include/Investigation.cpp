@@ -1,4 +1,4 @@
-
+// Copyright 2020 Your Name <your_email>
 #include "Investigation.h"
 Investigation::Investigation(ExperimentType t, std::vector<int64_t>& sizes) {
   Investigation::type = t;

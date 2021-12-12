@@ -1,8 +1,8 @@
+// Copyright 2020 Your Name <your_email>
 
 #include "Investigation.h"
 #include "Experiment.h"
 #include <gtest/gtest.h>
-
 
 TEST(ExperimentTest, forwardTest) {
   try {
