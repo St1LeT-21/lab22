@@ -1,4 +1,4 @@
-// Copyright 2021 wm8
+
 
 #ifndef TEMPLATE_INVESTIGATION_H
 #define TEMPLATE_INVESTIGATION_H

@@ -1,4 +1,4 @@
-// Copyright 2021 wm8
+
 
 #ifndef TEMPLATE_EXPERIMENT_H
 #define TEMPLATE_EXPERIMENT_H
