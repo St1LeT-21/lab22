@@ -1,7 +1,7 @@
 
 #include "ExperimentType.h"
-
 #include <sstream>
+
 std::ostream & operator<<(std::ostream & os, ExperimentType const & type) {
   switch (type) {
     case forward:

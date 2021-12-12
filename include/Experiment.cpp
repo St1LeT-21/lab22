@@ -1,6 +1,4 @@
 
-
-
 #include "Experiment.h"
 #include <random>
 #include <sstream>
