@@ -1,4 +1,4 @@
-// Copyright 2021 wm8
+
 #include "Investigation.h"
 #include "Experiment.h"
 #include <gtest/gtest.h>

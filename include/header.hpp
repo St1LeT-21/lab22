@@ -1,4 +1,3 @@
-// Copyright 2021 wm8
 
 #ifndef INCLUDE_HEADER_HPP_
 #define INCLUDE_HEADER_HPP_

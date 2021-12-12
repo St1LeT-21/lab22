@@ -1,7 +1,8 @@
-// Copyright (c) 2021. wm8
+
 
 #include "Investigation.h"
 #include "Experiment.h"
+
 int main() {
   std::vector<int64_t> size;
 
