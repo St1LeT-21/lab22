@@ -23,7 +23,6 @@ Experiment::Experiment(int i, ExperimentType t, int64_t s)
   Experiment::type = t;
   Experiment::size = s;
 }
-
 double Experiment::run() {
   using std::chrono::duration;
   using std::chrono::duration_cast;
