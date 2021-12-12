@@ -1,5 +1,4 @@
 
-
 #include "Investigation.h"
 #include "Experiment.h"
 
